@@ -1,0 +1,156 @@
+{
+	"ACCESS_INFO": {
+		"DATE":"09.04.2020",
+		"DAY_OF_THE_WEEK":"THURSDAY"
+		},
+	"MODEUS_DAYS": [
+		{
+			"DAY_NAME":"MONDAY",
+			"DATE":"06.04.2020",
+			"CLASSES":"none"
+		},
+		{
+			"DAY_NAME":"TUESDAY",
+			"DATE":"07.04.2020",
+			"CLASSES": [
+				{
+					"TIME":"9:00",
+					"COURSE":"ИНФОРМАЦИОННЫЕ СИСТЕМЫ",
+					"PROFESSOR":"Чаухан Мунеш Синх",
+					"ROOM":"408"
+				},
+				{
+					"TIME":"10:40",
+					"COURSE":"КИНО: ИСТОРИЯ И ФОРМА",
+					"PROFESSOR":"Мельбюэ Дэвид Уилльямсон",
+					"ROOM":"305"
+				}
+			]
+		},
+		{
+			"DAY_NAME":"WEDNESDAY",
+			"DATE":"08.04.2020",
+			"CLASSES":"none"
+		},
+		{
+			"DAY_NAME":"THURSDAY",
+			"DATE":"09.04.2020",
+			"CLASSES": [
+				{
+					"TIME":"9:00",
+					"COURSE":"ИНФОРМАЦИОННЫЕ СИСТЕМЫ",
+					"PROFESSOR":"Чаухан Мунеш Синх",
+					"ROOM":"408"
+				},
+				{
+					"TIME":"10:40",
+					"COURSE":"КИНО: ИСТОРИЯ И ФОРМА",
+					"PROFESSOR":"Мельбюэ Дэвид Уилльямсон",
+					"ROOM":"305"
+				}
+			]
+		},
+		{
+			"DAY_NAME":"FRIDAY",
+			"DATE":"10.04.2020",
+			"CLASSES": [
+				{
+					"TIME":"9:00",
+					"COURSE":"ИНФОРМАЦИОННЫЕ СИСТЕМЫ",
+					"PROFESSOR":"Чаухан Мунеш Синх",
+					"ROOM":"408"
+				},
+				{
+					"TIME":"10:40",
+					"COURSE":"КИНО: ИСТОРИЯ И ФОРМА",
+					"PROFESSOR":"Мельбюэ Дэвид Уилльямсон",
+					"ROOM":"305"
+				},
+				{
+					"TIME":"12:30",
+					"COURSE":"КИНО: ИСТОРИЯ И ФОРМА",
+					"PROFESSOR":"Мельбюэ Дэвид Уилльямсон",
+					"ROOM":"305"
+				}
+			]
+		},
+		{
+			"DAY_NAME":"SATURDAY",
+			"DATE":"11.04.2020",
+			"CLASSES":"none"
+		},
+		{
+			"DAY_NAME":"SUNDAY",
+			"DATE":"12.04.2020",
+			"CLASSES":"none"
+		},
+		{
+			"DAY_NAME":"NEXT_MONDAY",
+			"DATE":"13.04.2020",
+			"CLASSES":"none"
+		},
+		{
+			"DAY_NAME":"NEXT_TUESDAY",
+			"DATE":"14.04.2020",
+			"CLASSES":"none"
+		},
+		{
+			"DAY_NAME":"NEXT_WEDNESDAY",
+			"DATE":"15.04.2020",
+			"CLASSES":"none"
+		},
+		{
+			"DAY_NAME":"NEXT_THURSDAY",
+			"DATE":"16.04.2020",
+			"CLASSES":"none"
+		},
+		{
+			"DAY_NAME":"NEXT_FRIDAY",
+			"DATE":"17.04.2020",
+			"CLASSES":"none"
+		},
+		{
+			"DAY_NAME":"NEXT_SATURDAY",
+			"DATE":"18.04.2020",
+			"CLASSES":"none"
+		},
+		{
+			"DAY_NAME":"NEXT_SUNDAY",
+			"DATE":"19.04.2020",
+			"CLASSES":"none"
+		}
+	],
+	"CANVAS_DASHBOARD_DAYS": [
+		{
+			"DAY":"TODAY",
+			"ASSIGNMENTS":"none"
+		},
+		{
+			"DAY":"TOMORROW",
+			"ASSIGNMENTS": [
+				{
+					"COURSE":"FILM FORM & HISTORY III",
+					"TITLE":"Individual Exercise #8",
+					"TIME":"11:59 PM"
+				},
+				{
+					"COURSE":"RESEARCH SEMINAR",
+					"TITLE":"Current updates and deadlines (IT) - UPDATED on 6 April",
+					"TIME":"11:59 PM"
+				}
+			]
+		}
+	],
+	"CANVAS_INBOX_LETTERS": [
+		{
+			"AUTHOR":"David Melbye, Ilya Karasev",
+			"TITLE":"Week 8 updates",
+			"SUMMARY":"Dear FF&HIII Students, I hope you are surviving the quarantine so far! As you know, we will be ..."
+		},
+		{
+			"AUTHOR":"David Melbye, Ilya Karasev",
+			"TITLE":"Tomorrow's lecture and other remarks",
+			"SUMMARY":"Dear FF&H III Student, I have now graded your peer-review assignments. Most or all of you provid..."
+		}
+	]	
+}
